@@ -8,3 +8,6 @@ Geocoded with OneMap API.
 
 
 
+Screenshot:
+
+<img src="screenshot.png" alt="screenshot" style="zoom:75%;" />
